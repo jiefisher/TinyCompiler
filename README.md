@@ -1,4 +1,4 @@
-# TinyInterpreter
+# TinyCompiler
 A simple Compiler in python
 Using Antlr4 to parse, and using llvmlite to generate bytecode.
 ## You can write rule like this (test.gl):
